@@ -1,4 +1,4 @@
-printf team project Samuel and Winnie
+Printf team project Samuel Boateng and Winnie Nota
 TASKS
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
